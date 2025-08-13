@@ -1,7 +1,8 @@
 # OpenAIChatLibrary
 OpenAIChatLibrary
 A SwiftUI library for integrating OpenAI's ChatGPT API into your iOS or macOS apps. Provides a reusable chat interface and API interaction logic.
-Installation
+Installation </br>
+
 Add the package via Swift Package Manager:
 dependencies: [
     .package(url: "https://github.com/your-repo/OpenAIChatLibrary.git", from: "1.0.0")
